@@ -1,4 +1,4 @@
-#4. Find the Maximum of Three Numbers
+#1. Find the Maximum of Three Numbers
 #Write a function that takes three numbers and returns the maximum value.
 
 def max_of_three(a, b, c):
