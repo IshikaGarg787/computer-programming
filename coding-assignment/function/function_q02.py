@@ -1,4 +1,4 @@
-#3. Check If a Number Is Even or Odd
+#2. Check If a Number Is Even or Odd
 #Write a function that checks if a number is even or odd.
 
 def is_even_or_odd(n):
