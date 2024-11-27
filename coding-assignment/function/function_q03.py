@@ -1,4 +1,4 @@
-#5. Factorial of a Number
+#3. Factorial of a Number
 #Write a function that calculates the factorial of a given number.
 
 def factorial(n):
